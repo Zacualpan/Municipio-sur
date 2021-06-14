@@ -1,0 +1,19 @@
+p {
+	color : blue;
+	font-size: 20px;
+}
+
+a {
+	color : red;
+	font-size: 25px;
+	background: green;
+}
+
+body {
+	background:#0A8CE1;
+}
+
+img {
+	width : 200px;
+	height : 200px;
+}
